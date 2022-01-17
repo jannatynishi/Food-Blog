@@ -1,0 +1,46 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    text-decoration:none ;
+    list-style: none;
+    
+}
+nav{
+    height: 80px;
+    width: 100%;
+    background-image: url("img/icon.png");
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-position-y: 40%;
+    background-position-x: 3%;
+    background-size: 10%;
+    margin: 2% 7%;
+
+    
+}
+.logo{
+    font-size: 40px;
+    padding: 150px; 
+    font-weight: bold;
+    line-height:75px ;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+nav ul{
+    margin-right: 20%;
+    float: right;
+}
+nav ul li{
+    display: inline-block;
+    margin: 0 10px;
+    line-height: 80px;
+}
+nav ul li a{
+    font-size: 17px;
+    padding: 7px 10px;
+    border-radius: 3px;
+}
+a:hover{
+    transition-duration: 1s;
+    background-color: rgb(226, 221, 221);
+}
+
