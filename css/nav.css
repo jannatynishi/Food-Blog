@@ -3,8 +3,7 @@
     margin: 0%;
     text-decoration:none ;
     list-style: none;
-    
-}
+    }
 nav{
     height: 80px;
     width: 100%;
@@ -38,9 +37,11 @@ nav ul li a{
     font-size: 17px;
     padding: 7px 10px;
     border-radius: 3px;
+    color: darkgrey;
 }
 a:hover{
     transition-duration: 1s;
-    background-color: rgb(226, 221, 221);
+    background-color: rgb(182, 175, 175);
+    color: black;
 }
 
