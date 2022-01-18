@@ -1,0 +1,8 @@
+.recipe-container{
+    display: flex;
+    margin:2% 10%;
+}
+.fig-caption{
+    color: black;
+    font-size: 15px;
+}
